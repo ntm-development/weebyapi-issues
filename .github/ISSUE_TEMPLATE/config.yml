@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Weeby API Website
+    url: https://weebyapi.xyz/
+    about: The official website for Weeby API.
+  - name: Knowledge Base
+    url: https://support.weebyapi.xyz/
+    about: Find helpful articles related to Weeby API.
+  - name: Discord Server
+    url: https://weebyapi.xyz/discord
+    about: Join our community and ask for help.
